@@ -696,10 +696,10 @@ message MeshConfig {
       string service = 1;
 
       // REQUIRED. Specifies the port of the service.
-      uint32 port = 3;
+      uint32 port = 2;
 
       // Optional. The SkyWalking OAP access token.
-      string access_token = 4;
+      string access_token = 3;
     }
 
     // Defines configuration for Stackdriver.
