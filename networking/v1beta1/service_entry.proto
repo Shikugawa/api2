@@ -774,7 +774,7 @@ import "networking/v1beta1/workload_entry.proto";
 // {{</tabset>}}
 package istio.networking.v1beta1;
 
-option go_package = "istio.io/api/networking/v1beta1";
+option go_package = "github.com/Shikugawa/api2/networking/v1beta1";
 
 // ServiceEntry enables adding additional entries into Istio's internal
 // service registry.

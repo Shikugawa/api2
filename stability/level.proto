@@ -16,7 +16,7 @@ syntax = "proto3";
 
 package istio.stability;
 
-option go_package="istio.io/api/stability";
+option go_package="github.com/Shikugawa/api2/stability";
 
 // Level defines the stability levels Istio uses.
 enum Level {
