@@ -22,7 +22,7 @@ import "google/rpc/status.proto";
 import "gogoproto/gogo.proto";
 import "mcp/v1alpha1/resource.proto";
 
-option go_package="github.com/Shikugawa/api2/mcp/v1alpha1";
+option go_package="istio.io/api/mcp/v1alpha1";
 option (gogoproto.equal_all) = true;
 
 // Identifies a specific MCP sink node instance. The node identifier is

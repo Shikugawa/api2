@@ -255,7 +255,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/authentication/v1alpha1"
+            "value": "istio.io/api/authentication/v1alpha1"
           }
         ]
       }
@@ -35047,7 +35047,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/envoy/config/filter/http/alpn/v2alpha1"
+            "value": "istio.io/api/envoy/config/filter/http/alpn/v2alpha1"
           }
         ]
       }
@@ -35093,7 +35093,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/envoy/config/filter/http/authn/v2alpha1"
+            "value": "istio.io/api/envoy/config/filter/http/authn/v2alpha1"
           }
         ]
       }
@@ -35248,7 +35248,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/envoy/config/filter/http/jwt_auth/v2alpha1"
+            "value": "istio.io/api/envoy/config/filter/http/jwt_auth/v2alpha1"
           }
         ]
       }
@@ -35279,7 +35279,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/envoy/config/filter/network/tcp_cluster_rewrite/v2alpha1"
+            "value": "istio.io/api/envoy/config/filter/network/tcp_cluster_rewrite/v2alpha1"
           }
         ]
       }
@@ -35584,7 +35584,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mcp/v1alpha1"
+            "value": "istio.io/api/mcp/v1alpha1"
           },
           {
             "name": "(gogoproto.equal_all)",
@@ -35650,7 +35650,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mcp/v1alpha1"
+            "value": "istio.io/api/mcp/v1alpha1"
           },
           {
             "name": "(gogoproto.equal_all)",
@@ -35696,7 +35696,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mcp/v1alpha1"
+            "value": "istio.io/api/mcp/v1alpha1"
           },
           {
             "name": "(gogoproto.equal_all)",
@@ -36182,7 +36182,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mesh/v1alpha1"
+            "value": "istio.io/api/mesh/v1alpha1"
           }
         ]
       }
@@ -36299,7 +36299,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mesh/v1alpha1"
+            "value": "istio.io/api/mesh/v1alpha1"
           }
         ]
       }
@@ -36632,7 +36632,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mesh/v1alpha1"
+            "value": "istio.io/api/mesh/v1alpha1"
           }
         ]
       }
@@ -36695,7 +36695,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/adapter/model/v1beta1"
+            "value": "istio.io/api/mixer/adapter/model/v1beta1"
           },
           {
             "name": "(gogoproto.goproto_getters_all)",
@@ -36769,7 +36769,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/adapter/model/v1beta1"
+            "value": "istio.io/api/mixer/adapter/model/v1beta1"
           }
         ]
       }
@@ -36816,7 +36816,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/adapter/model/v1beta1"
+            "value": "istio.io/api/mixer/adapter/model/v1beta1"
           }
         ]
       }
@@ -36947,7 +36947,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/adapter/model/v1beta1"
+            "value": "istio.io/api/mixer/adapter/model/v1beta1"
           },
           {
             "name": "cc_generic_services",
@@ -37071,7 +37071,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/adapter/model/v1beta1"
+            "value": "istio.io/api/mixer/adapter/model/v1beta1"
           },
           {
             "name": "(gogoproto.goproto_getters_all)",
@@ -37107,7 +37107,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/adapter/model/v1beta1"
+            "value": "istio.io/api/mixer/adapter/model/v1beta1"
           },
           {
             "name": "(gogoproto.goproto_getters_all)",
@@ -37145,7 +37145,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/adapter/model/v1beta1"
+            "value": "istio.io/api/mixer/adapter/model/v1beta1"
           }
         ]
       }
@@ -37361,7 +37361,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/v1"
+            "value": "istio.io/api/mixer/v1"
           },
           {
             "name": "(gogoproto.goproto_getters_all)",
@@ -37528,7 +37528,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/v1/config/client"
+            "value": "istio.io/api/mixer/v1/config/client"
           },
           {
             "name": "(gogoproto.goproto_getters_all)",
@@ -37788,7 +37788,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/v1/config/client"
+            "value": "istio.io/api/mixer/v1/config/client"
           },
           {
             "name": "(gogoproto.goproto_getters_all)",
@@ -37959,7 +37959,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/v1/config/client"
+            "value": "istio.io/api/mixer/v1/config/client"
           },
           {
             "name": "(gogoproto.goproto_getters_all)",
@@ -38031,7 +38031,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/v1/config/client"
+            "value": "istio.io/api/mixer/v1/config/client"
           },
           {
             "name": "(gogoproto.goproto_getters_all)",
@@ -38478,7 +38478,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/mixer/v1"
+            "value": "istio.io/api/mixer/v1"
           },
           {
             "name": "cc_generic_services",
@@ -38959,7 +38959,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/networking/v1alpha3"
+            "value": "istio.io/api/networking/v1alpha3"
           }
         ]
       }
@@ -39568,7 +39568,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/networking/v1alpha3"
+            "value": "istio.io/api/networking/v1alpha3"
           }
         ]
       }
@@ -39818,7 +39818,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/networking/v1alpha3"
+            "value": "istio.io/api/networking/v1alpha3"
           }
         ]
       }
@@ -39992,7 +39992,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/networking/v1alpha3"
+            "value": "istio.io/api/networking/v1alpha3"
           }
         ]
       }
@@ -40177,7 +40177,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/networking/v1alpha3"
+            "value": "istio.io/api/networking/v1alpha3"
           }
         ]
       }
@@ -41004,7 +41004,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/networking/v1alpha3"
+            "value": "istio.io/api/networking/v1alpha3"
           }
         ]
       }
@@ -41558,7 +41558,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/policy/v1beta1"
+            "value": "istio.io/api/policy/v1beta1"
           }
         ]
       }
@@ -41833,7 +41833,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/policy/v1beta1"
+            "value": "istio.io/api/policy/v1beta1"
           }
         ]
       }
@@ -41990,7 +41990,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/policy/v1beta1"
+            "value": "istio.io/api/policy/v1beta1"
           }
         ]
       }
@@ -42058,7 +42058,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/policy/v1beta1"
+            "value": "istio.io/api/policy/v1beta1"
           }
         ]
       }
@@ -42419,7 +42419,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/rbac/v1alpha1"
+            "value": "istio.io/api/rbac/v1alpha1"
           }
         ]
       }
@@ -42590,7 +42590,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/security/v1beta1"
+            "value": "istio.io/api/security/v1beta1"
           }
         ]
       }
@@ -42630,7 +42630,7 @@
         "options": [
           {
             "name": "go_package",
-            "value": "github.com/Shikugawa/api2/type/v1beta1"
+            "value": "istio.io/api/type/v1beta1"
           }
         ]
       }

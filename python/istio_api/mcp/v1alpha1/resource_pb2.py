@@ -22,8 +22,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='mcp/v1alpha1/resource.proto',
   package='istio.mcp.v1alpha1',
   syntax='proto3',
-  serialized_options=_b('Z\031github.com/Shikugawa/api2/mcp/v1alpha1\250\342\036\001'),
-  serialized_pb=_b('\n\x1bmcp/v1alpha1/resource.proto\x12\x12istio.mcp.v1alpha1\x1a\x19google/protobuf/any.proto\x1a\x14gogoproto/gogo.proto\x1a\x1bmcp/v1alpha1/metadata.proto\"n\n\x08Resource\x12\x38\n\x08metadata\x18\x01 \x01(\x0b\x32\x1c.istio.mcp.v1alpha1.MetadataR\x08metadata\x12(\n\x04\x62ody\x18\x02 \x01(\x0b\x32\x14.google.protobuf.AnyR\x04\x62odyB\x1fZ\x19github.com/Shikugawa/api2/mcp/v1alpha1\xa8\xe2\x1e\x01\x62\x06proto3')
+  serialized_options=_b('Z\031istio.io/api/mcp/v1alpha1\250\342\036\001'),
+  serialized_pb=_b('\n\x1bmcp/v1alpha1/resource.proto\x12\x12istio.mcp.v1alpha1\x1a\x19google/protobuf/any.proto\x1a\x14gogoproto/gogo.proto\x1a\x1bmcp/v1alpha1/metadata.proto\"n\n\x08Resource\x12\x38\n\x08metadata\x18\x01 \x01(\x0b\x32\x1c.istio.mcp.v1alpha1.MetadataR\x08metadata\x12(\n\x04\x62ody\x18\x02 \x01(\x0b\x32\x14.google.protobuf.AnyR\x04\x62odyB\x1fZ\x19istio.io/api/mcp/v1alpha1\xa8\xe2\x1e\x01\x62\x06proto3')
   ,
   dependencies=[google_dot_protobuf_dot_any__pb2.DESCRIPTOR,gogoproto_dot_gogo__pb2.DESCRIPTOR,mcp_dot_v1alpha1_dot_metadata__pb2.DESCRIPTOR,])
 

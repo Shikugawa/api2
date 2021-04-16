@@ -5,10 +5,10 @@ package v1alpha1
 
 import (
 	fmt "fmt"
-	v1alpha1 "github.com/Shikugawa/api2/analysis/v1alpha1"
 	proto "github.com/gogo/protobuf/proto"
 	types "github.com/gogo/protobuf/types"
 	io "io"
+	v1alpha1 "istio.io/api/analysis/v1alpha1"
 	_ "istio.io/gogo-genproto/googleapis/google/api"
 	math "math"
 	math_bits "math/bits"

@@ -17,7 +17,7 @@ syntax = "proto3";
 import "type/v1beta1/selector.proto";
 import "google/protobuf/wrappers.proto";
 
-option go_package = "github.com/Shikugawa/api2/telemetry/v1alpha1";
+option go_package = "istio.io/api/telemetry/v1alpha1";
 
 package istio.telemetry.v1alpha1;
 

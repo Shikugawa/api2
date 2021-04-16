@@ -174,7 +174,7 @@ import "google/protobuf/wrappers.proto";
 //
 package istio.networking.v1beta1;
 
-option go_package = "github.com/Shikugawa/api2/networking/v1beta1";
+option go_package = "istio.io/api/networking/v1beta1";
 
 // Configuration affecting traffic routing.
 //

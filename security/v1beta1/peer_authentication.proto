@@ -23,7 +23,7 @@ import "type/v1beta1/selector.proto";
 
 package istio.security.v1beta1;
 
-option go_package="github.com/Shikugawa/api2/security/v1beta1";
+option go_package="istio.io/api/security/v1beta1";
 
 // PeerAuthentication defines how traffic will be tunneled (or not) to the sidecar.
 //

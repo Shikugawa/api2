@@ -1,6 +1,6 @@
 # Cuelang configuration to generate OpenAPI schema for Istio configs.
 
-module: github.com/Shikugawa/api2
+module: istio.io/api
 
 openapi:
   selfContained: true

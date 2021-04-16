@@ -16,7 +16,7 @@ syntax = "proto3";
 
 package istio.extensions;
 
-option go_package="github.com/Shikugawa/api2/extensions";
+option go_package="istio.io/api/extensions";
 
 import "google/protobuf/descriptor.proto";
 
