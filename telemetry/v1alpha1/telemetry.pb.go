@@ -6,9 +6,9 @@ package v1alpha1
 import (
 	encoding_binary "encoding/binary"
 	fmt "fmt"
+	v1beta1 "github.com/Shikugawa/api2/type/v1beta1"
 	proto "github.com/gogo/protobuf/proto"
 	io "io"
-	v1beta1 "istio.io/api/type/v1beta1"
 	math "math"
 	math_bits "math/bits"
 )

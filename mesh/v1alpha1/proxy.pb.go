@@ -6,10 +6,10 @@ package v1alpha1
 import (
 	encoding_binary "encoding/binary"
 	fmt "fmt"
+	v1alpha3 "github.com/Shikugawa/api2/networking/v1alpha3"
 	proto "github.com/gogo/protobuf/proto"
 	types "github.com/gogo/protobuf/types"
 	io "io"
-	v1alpha3 "istio.io/api/networking/v1alpha3"
 	math "math"
 	math_bits "math/bits"
 )

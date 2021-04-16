@@ -21,8 +21,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='security/v1beta1/request_authentication.proto',
   package='istio.security.v1beta1',
   syntax='proto3',
-  serialized_options=_b('Z\035istio.io/api/security/v1beta1'),
-  serialized_pb=_b('\n-security/v1beta1/request_authentication.proto\x12\x16istio.security.v1beta1\x1a\x1btype/v1beta1/selector.proto\x1a\x1asecurity/v1beta1/jwt.proto\"\x97\x01\n\x15RequestAuthentication\x12@\n\x08selector\x18\x01 \x01(\x0b\x32$.istio.type.v1beta1.WorkloadSelectorR\x08selector\x12<\n\tjwt_rules\x18\x02 \x03(\x0b\x32\x1f.istio.security.v1beta1.JWTRuleR\x08jwtRulesB\x1fZ\x1distio.io/api/security/v1beta1b\x06proto3')
+  serialized_options=_b('Z\035github.com/Shikugawa/api2/security/v1beta1'),
+  serialized_pb=_b('\n-security/v1beta1/request_authentication.proto\x12\x16istio.security.v1beta1\x1a\x1btype/v1beta1/selector.proto\x1a\x1asecurity/v1beta1/jwt.proto\"\x97\x01\n\x15RequestAuthentication\x12@\n\x08selector\x18\x01 \x01(\x0b\x32$.istio.type.v1beta1.WorkloadSelectorR\x08selector\x12<\n\tjwt_rules\x18\x02 \x03(\x0b\x32\x1f.istio.security.v1beta1.JWTRuleR\x08jwtRulesB\x1fZ\x1dgithub.com/Shikugawa/api2/security/v1beta1b\x06proto3')
   ,
   dependencies=[type_dot_v1beta1_dot_selector__pb2.DESCRIPTOR,security_dot_v1beta1_dot_jwt__pb2.DESCRIPTOR,])
 

@@ -5,8 +5,8 @@ package v1alpha1
 
 import (
 	fmt "fmt"
+	_ "github.com/Shikugawa/api2/type/v1beta1"
 	proto "github.com/gogo/protobuf/proto"
-	_ "istio.io/api/type/v1beta1"
 	math "math"
 )
 

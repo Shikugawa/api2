@@ -1,4 +1,4 @@
-module istio.io/api
+module github.com/Shikugawa/api2
 
 go 1.12
 

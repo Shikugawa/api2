@@ -23,7 +23,7 @@ import "google/api/field_behavior.proto";
 
 package istio.security.v1beta1;
 
-option go_package="istio.io/api/security/v1beta1";
+option go_package="github.com/Shikugawa/api2/security/v1beta1";
 
 // JSON Web Token (JWT) token format for authentication as defined by
 // [RFC 7519](https://tools.ietf.org/html/rfc7519). See [OAuth 2.0](https://tools.ietf.org/html/rfc6749) and
