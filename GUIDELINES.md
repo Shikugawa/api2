@@ -31,7 +31,7 @@ This section captures guidelines that apply to the proto form of the configurati
 
 #### Placement
 
-- **Do** place new API protos under ```github.com/Shikugawa/api2/<area>/<version>``` folder.
+- **Do** place new API protos under ```istio.io/api/<area>/<version>``` folder.
 - **Prefer** complete words for file names.
 
     ```

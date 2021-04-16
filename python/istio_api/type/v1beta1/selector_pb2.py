@@ -20,8 +20,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='type/v1beta1/selector.proto',
   package='istio.type.v1beta1',
   syntax='proto3',
-  serialized_options=_b('Z\031github.com/Shikugawa/api2/type/v1beta1'),
-  serialized_pb=_b('\n\x1btype/v1beta1/selector.proto\x12\x12istio.type.v1beta1\x1a\x1fgoogle/api/field_behavior.proto\"\xb2\x01\n\x10WorkloadSelector\x12^\n\x0cmatch_labels\x18\x01 \x03(\x0b\x32\x35.istio.type.v1beta1.WorkloadSelector.MatchLabelsEntryB\x04\xe2\x41\x01\x02R\x0bmatchLabels\x1a>\n\x10MatchLabelsEntry\x12\x10\n\x03key\x18\x01 \x01(\tR\x03key\x12\x14\n\x05value\x18\x02 \x01(\tR\x05value:\x02\x38\x01\x42\x1bZ\x19github.com/Shikugawa/api2/type/v1beta1b\x06proto3')
+  serialized_options=_b('Z\031istio.io/api/type/v1beta1'),
+  serialized_pb=_b('\n\x1btype/v1beta1/selector.proto\x12\x12istio.type.v1beta1\x1a\x1fgoogle/api/field_behavior.proto\"\xb2\x01\n\x10WorkloadSelector\x12^\n\x0cmatch_labels\x18\x01 \x03(\x0b\x32\x35.istio.type.v1beta1.WorkloadSelector.MatchLabelsEntryB\x04\xe2\x41\x01\x02R\x0bmatchLabels\x1a>\n\x10MatchLabelsEntry\x12\x10\n\x03key\x18\x01 \x01(\tR\x03key\x12\x14\n\x05value\x18\x02 \x01(\tR\x05value:\x02\x38\x01\x42\x1bZ\x19istio.io/api/type/v1beta1b\x06proto3')
   ,
   dependencies=[google_dot_api_dot_field__behavior__pb2.DESCRIPTOR,])
 
